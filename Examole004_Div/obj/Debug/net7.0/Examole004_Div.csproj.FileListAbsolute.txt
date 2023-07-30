@@ -1,0 +1,15 @@
+D:\GeekBrines\CourseOnC#\Lection\LessonOne\Examples\Examole004_Div\obj\Debug\net7.0\Examole004_Div.csproj.AssemblyReference.cache
+D:\GeekBrines\CourseOnC#\Lection\LessonOne\Examples\Examole004_Div\obj\Debug\net7.0\Examole004_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrines\CourseOnC#\Lection\LessonOne\Examples\Examole004_Div\obj\Debug\net7.0\Examole004_Div.AssemblyInfoInputs.cache
+D:\GeekBrines\CourseOnC#\Lection\LessonOne\Examples\Examole004_Div\obj\Debug\net7.0\Examole004_Div.AssemblyInfo.cs
+D:\GeekBrines\CourseOnC#\Lection\LessonOne\Examples\Examole004_Div\obj\Debug\net7.0\Examole004_Div.csproj.CoreCompileInputs.cache
+D:\GeekBrines\CourseOnC#\Lection\LessonOne\Examples\Examole004_Div\bin\Debug\net7.0\Examole004_Div.exe
+D:\GeekBrines\CourseOnC#\Lection\LessonOne\Examples\Examole004_Div\bin\Debug\net7.0\Examole004_Div.deps.json
+D:\GeekBrines\CourseOnC#\Lection\LessonOne\Examples\Examole004_Div\bin\Debug\net7.0\Examole004_Div.runtimeconfig.json
+D:\GeekBrines\CourseOnC#\Lection\LessonOne\Examples\Examole004_Div\bin\Debug\net7.0\Examole004_Div.dll
+D:\GeekBrines\CourseOnC#\Lection\LessonOne\Examples\Examole004_Div\bin\Debug\net7.0\Examole004_Div.pdb
+D:\GeekBrines\CourseOnC#\Lection\LessonOne\Examples\Examole004_Div\obj\Debug\net7.0\Examole004_Div.dll
+D:\GeekBrines\CourseOnC#\Lection\LessonOne\Examples\Examole004_Div\obj\Debug\net7.0\refint\Examole004_Div.dll
+D:\GeekBrines\CourseOnC#\Lection\LessonOne\Examples\Examole004_Div\obj\Debug\net7.0\Examole004_Div.pdb
+D:\GeekBrines\CourseOnC#\Lection\LessonOne\Examples\Examole004_Div\obj\Debug\net7.0\Examole004_Div.genruntimeconfig.cache
+D:\GeekBrines\CourseOnC#\Lection\LessonOne\Examples\Examole004_Div\obj\Debug\net7.0\ref\Examole004_Div.dll
